@@ -1,5 +1,10 @@
 Project Report: Predictive Modeling for Health Metrics
-Using Geographical Data
+Using Geographical Data (PROUDLY PRESENTED TO
+For securing
+Third
+Harshikant Dubey
+place in the 'Predictioneer' Competition held by
+AZeotropy'25, IIT Bombay.)
 
 
 1. Introduction:
@@ -29,3 +34,5 @@ geographical features (Lat, Long_) and known case fatality ratio (CFR).
 2. Phase 2:
  Build a multi-output model to predict both Deaths and CFR simultaneously,
 leveraging predictions from Phase 1 for enhanced accuracy.
+
+![image](https://github.com/user-attachments/assets/d49cbfc4-0f9e-422f-a727-7f3bb0537c7e)
