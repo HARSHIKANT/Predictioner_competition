@@ -1,7 +1,9 @@
+## 3rd Rank at AZeotropy'25, IIT Bombay  
+
 Project Report: Predictive Modeling for Health Metrics
 Using Geographical Data (PROUDLY PRESENTED TO
 For securing
-# 3rd
+3rd
 Harshikant Dubey
 place in the 'Predictioneer' Competition held by
 AZeotropy'25, IIT Bombay.)
