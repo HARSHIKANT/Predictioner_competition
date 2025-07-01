@@ -1,7 +1,7 @@
 Project Report: Predictive Modeling for Health Metrics
 Using Geographical Data (PROUDLY PRESENTED TO
 For securing
-Third
+# 3rd
 Harshikant Dubey
 place in the 'Predictioneer' Competition held by
 AZeotropy'25, IIT Bombay.)
